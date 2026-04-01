@@ -1,0 +1,7 @@
+{
+  "name": "SmartFit Garage",
+  "description": "Your AI-powered automotive diagnostic assistant. Upload photos, describe symptoms, and get instant repair advice, cost estimates, and local mechanic recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
